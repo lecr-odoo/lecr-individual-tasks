@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<odoo>
+    <template id="birthday_email_template">
+        <div id="body">
+            <p>
+                Dear <t t-out="employee.name"/>,
+                <br/>
+                <br/>
+                Happy Birthday!
+                Have the best Birthday!
+                <br/>
+            </p>
+            Regards,
+            <br/>
+            <p>Odoo</p>
+        </div>
+    </template>
+</odoo>
