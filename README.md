@@ -1,19 +1,19 @@
-# [Tetragram] - [Task Name]
+# [lecr] - [Tangent Systems LLC: Invoice Created from Task]
 [Link](url) to task
 
 ## Steps to complete the dev
-- [X] Step 1
-- [ ] Step 2
+- [X] Create the two fields for Delivery Date and Invoice Number and add them to the task page
+- [X] Check to see if both the fields are populated
+- [X] If populated validate the ordered values and then create invoice accordingly
 
 ## Issues/Blocking Points
-- [X] Issue #1
-- [ ] 
+- [X] None
 
 ## Topics I need clarification on
-- [X] Topic #1
+- [X] None
       
 ## Interns who helped me
-- [tetragram] - [# minutes helped] - [What they helped on]
+- None
 
 ## Interns I helped
-- [tetragram] - [# minutes helped]
+- None
